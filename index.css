@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+#main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: 
+#6B7280;
+}
+
+#metric{
+    color: white;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+#input-btn{
+    border: 1px solid #FFFFFF;
+    background: #6B7280;
+    padding: 10px 0px 10px 0px;
+    /* width: 70px; */
+    /* height: 30px; */
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+#convert-btn{
+    color: black;
+    background: #FFFFFF;
+    margin-top: 20px;
+    padding: 8px 20px 8px 20px;
+    border: 1px solid snow;
+    border-radius: 5px;
+    margin-bottom: 30px;
+
+}
+#main1{
+    background: #1F2937;
+    padding: 30px;
+    
+}
+
+#length{
+    background: #273549;
+    padding: 5px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#volume{
+    background: #273549;
+    padding: 5px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+#mass{
+   background: #273549;
+    padding: 5px;
+    /* margin-bottom: 20px; */
+    color: white;
+}
